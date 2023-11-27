@@ -8,7 +8,7 @@
   
   .desktop .div {
     background-color: #e0e0e0;
-    overflow: hidden;
+    overflow-x: auto;
     width: 1440px;
     height: 2387px;
     position: relative;
